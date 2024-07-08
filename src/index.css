@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* .bi{
+  background-image: url(img/bg-01-free-img.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 800px;
+  width: 100%;
+} */
+.bi{
+  background-image: url(img/photo-1.jpg);
+  background-position: center;
+  background-size: cover;
+ 
+}
+.bi1{
+  background-image: url(img/photo-5.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+.bi2{
+  background-image: url(img/photo-6.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+.bi3{
+  background-image: url(img/photo-3.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+.bi4{
+  background-image: url(img/photo-2.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+.bi5{
+  background-image: url(img/photo-8.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+.bi6{
+  background-image: url(img/speaker-07-free-img.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+.bi7{
+  background-image: url(img/photo-4.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+.bi8{
+  background-image: url(img/photo-7.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+.bi9{
+  background-image: url(img/photo-9.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+.bi10{
+  background-image: url(img/bg-01-free-img.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+
